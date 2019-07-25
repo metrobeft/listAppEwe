@@ -4,10 +4,15 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="NerverMind.MainPage">
+             x:Class="NerverMind.MainPage"
+             Title="Nerver Mind">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Botão 1" Order="Secondary" />
+        <ToolbarItem Text="Botão 2" Order="Secondary" />
+        <ToolbarItem Text="Adicionar Item"  Order="Primary" Icon="search.png" />
 
-    <StackLayout>
-        <!-- Place new controls here -->
+    </ContentPage.ToolbarItems>
+    <!-- Place new controls here -->
         <Label Text="Welcome to Xamarin.Forms!" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
