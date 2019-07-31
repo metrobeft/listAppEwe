@@ -7,7 +7,7 @@ Alex
 Ewerton 
 Pedro
 #### Design:
-
+![proto-app](https://user-images.githubusercontent.com/26391249/62197058-8e26a480-b355-11e9-958a-390e7c68f9da.PNG)
 
 
 
