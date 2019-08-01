@@ -1,0 +1,12 @@
+C:\Users\evesilva\OneDrive - Nokia\Pessoal\UFRJ\IEEE\Nervermind\listAppEwe\NeverMind\Todo\bin\Debug\netstandard2.0\NeverMind.deps.json
+C:\Users\evesilva\OneDrive - Nokia\Pessoal\UFRJ\IEEE\Nervermind\listAppEwe\NeverMind\Todo\bin\Debug\netstandard2.0\NeverMind.dll
+C:\Users\evesilva\OneDrive - Nokia\Pessoal\UFRJ\IEEE\Nervermind\listAppEwe\NeverMind\Todo\bin\Debug\netstandard2.0\NeverMind.pdb
+C:\Users\evesilva\OneDrive - Nokia\Pessoal\UFRJ\IEEE\Nervermind\listAppEwe\NeverMind\Todo\obj\Debug\netstandard2.0\NeverMind.csprojAssemblyReference.cache
+C:\Users\evesilva\OneDrive - Nokia\Pessoal\UFRJ\IEEE\Nervermind\listAppEwe\NeverMind\Todo\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\Users\evesilva\OneDrive - Nokia\Pessoal\UFRJ\IEEE\Nervermind\listAppEwe\NeverMind\Todo\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\Users\evesilva\OneDrive - Nokia\Pessoal\UFRJ\IEEE\Nervermind\listAppEwe\NeverMind\Todo\obj\Debug\netstandard2.0\NeverMind.csproj.CoreCompileInputs.cache
+C:\Users\evesilva\OneDrive - Nokia\Pessoal\UFRJ\IEEE\Nervermind\listAppEwe\NeverMind\Todo\obj\Debug\netstandard2.0\NeverMind.AssemblyInfoInputs.cache
+C:\Users\evesilva\OneDrive - Nokia\Pessoal\UFRJ\IEEE\Nervermind\listAppEwe\NeverMind\Todo\obj\Debug\netstandard2.0\NeverMind.AssemblyInfo.cs
+C:\Users\evesilva\OneDrive - Nokia\Pessoal\UFRJ\IEEE\Nervermind\listAppEwe\NeverMind\Todo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\evesilva\OneDrive - Nokia\Pessoal\UFRJ\IEEE\Nervermind\listAppEwe\NeverMind\Todo\obj\Debug\netstandard2.0\NeverMind.dll
+C:\Users\evesilva\OneDrive - Nokia\Pessoal\UFRJ\IEEE\Nervermind\listAppEwe\NeverMind\Todo\obj\Debug\netstandard2.0\NeverMind.pdb
